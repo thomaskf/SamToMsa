@@ -14,4 +14,4 @@ Then an executable file named SamToMsa will appear
 
 [Usage]
 
-Syntax: ./SamToMsa <sam/bam file> <pair-end out file> <single-end out file>
+Syntax: ./SamToMsa [sam/bam file] [pair-end out file] [single-end out file]
